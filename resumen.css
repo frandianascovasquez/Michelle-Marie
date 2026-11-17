@@ -1,0 +1,58 @@
+body {
+    Margin: 0 auto;
+    width: 70%;
+    background-color: rgb(240, 255, 203);
+    font-family: Helvetica, sans-serif, Arial, Verdana;
+    color: rgb(33, 20, 151);
+}
+
+header {
+    background-color: rgb(184, 237, 255);
+    padding: 5%;
+
+}
+
+#id {
+    background-color: rgb(120, 201, 228);
+    padding: 5%;
+    margin: 2%;
+    border: 2px solid rgb(240, 255, 203);
+    border-radius: 27px;
+    width: fit-content;
+}
+
+main {
+    background-color: rgb(247, 239, 176);
+    padding: 5%;
+}
+
+img {
+    width: 25%;
+    border-radius: 50%;
+    border: 2px solid rgb(248, 231, 157);
+}
+
+footer {
+    background-color: rgb(77, 87, 91);
+
+}
+
+h3 {
+    background-color: rgb(138, 213, 238);
+    color: blue;
+    border: 2px solid  rgb(138, 213, 238);
+    border-radius: 7px;
+    width: fit-content;
+
+}
+
+h2 {
+    font-family: Georgia, 'Times New Roman', Times, serif, sans-serif;
+opacity: 75%;
+text-decoration: underline;
+}
+
+
+li {
+    list-style-type: alpha;
+    }
